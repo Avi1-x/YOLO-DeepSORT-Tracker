@@ -22,10 +22,10 @@
    ```
    
 ## Usage
-1. Configure the `model_path` and `video_path`, variables in `yolo_detect.py` to point to your YOLO model and input video.
+1. Configure the `model_path` and `video_path`, variables in `yolo_track.py` to point to your YOLO model and input video.
 2. Run the script:
     ```bash
-    python yolo_detect.py
+    python yolo_track.py
     ```
 3. The script will output a video with tracked objects, saved to the specified `output_path`.
 
